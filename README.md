@@ -20,7 +20,14 @@ The system includes a full login and registration mechanism, role-based authoriz
 - Django 5.0.3  
 - Django REST Framework  
 - django-cors-headers  
+
+### Frontend
 - React 18  
+- Redux Toolkit  
+- React Router DOM  
+- Bootstrap 5, React Bootstrap  
+- Axios  
+- Moment.js  
 
 ## Architecture
 
@@ -28,5 +35,6 @@ The application consists of two parts:
 
 - **Backend (Django REST API)** – application logic, authorization, data models, request handling  
 - **Frontend (React SPA)** – user interface, API communication, routing, and state management (Redux)  
+
 
 
