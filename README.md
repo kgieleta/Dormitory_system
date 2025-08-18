@@ -3,7 +3,7 @@
 A web application project developed as part of a university subject, enabling dormitory residents to schedule visits, extend their duration, and allowing administrators and council members to manage these visits.  
 The system includes a full login and registration mechanism, role-based authorization, a meeting calendar, as well as an admin panel for managing users and generating reports. The project was carried out in a 6-person team.  
 
-📄 The [Technical Documentation](Dormitory_system_technical_documentation.pdf) and [User Documentation](Dormitory_system_user_documentation.pdf) are available in Polish within the repository.
+📄 The [Technical Documentation](docs/Dormitory_system_technical_documentation.pdf) and [User Documentation](docs/Dormitory_system_user_documentation.pdf) are available in Polish within the repository.
 
 ## Features
 
@@ -48,4 +48,5 @@ The application consists of two parts:
 
 ### Planning new appointment
 <img width="751" height="598" alt="image" src="https://github.com/user-attachments/assets/b7db6637-3c12-4c3e-9871-2338c82ab430" />
+
 
